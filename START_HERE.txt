@@ -1,0 +1,23 @@
+LOCKBREAK ISLAND - REBUILT
+
+1. Open Roblox Studio.
+2. Choose File > Open from File.
+3. Select Lockbreak-Island-Rebuilt.rbxlx from this download.
+4. Press Play (F5).
+
+No Rojo installation is needed to play this file.
+
+Controls: WASD move, Space jump, E interact, Shift sprint, B shop.
+Touch: native movement controls plus buttons on the game HUD.
+Gamepad: X interact, L3 sprint; select shop controls with the gamepad.
+
+Steal the keycard in the WEST guard office.
+Cut power at the EAST generator.
+Optionally rescue inmates and complete side quests.
+Escape NORTH at the boat.
+
+Studio starts in practice mode with temporary progress and no Robux purchases.
+For publishing, saving, product IDs, source editing, and testing, read README.md.
+
+Fictional parody. The story is invented; it makes no factual claim about real people.
+Roblox Studio engine playtesting has not been completed in the authoring session.

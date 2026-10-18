@@ -1,0 +1,5 @@
+/dist/
+*.rbxl
+*.rbxlx
+*.zip
+__pycache__/

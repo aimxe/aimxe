@@ -1,0 +1,15 @@
+{
+  "name": "Lockbreak Island Rebuilt",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$properties": { "FilteringEnabled": true, "Gravity": 196.2, "FallenPartsDestroyHeight": -100 }
+    },
+    "ReplicatedStorage": { "$path": "src/ReplicatedStorage" },
+    "ServerScriptService": { "$path": "src/ServerScriptService" },
+    "StarterPlayer": {
+      "$properties": { "CharacterWalkSpeed": 16, "CharacterJumpPower": 50, "LoadCharacterAppearance": false, "EnableMouseLockOption": false },
+      "StarterPlayerScripts": { "$path": "src/StarterPlayer/StarterPlayerScripts" }
+    }
+  }
+}
